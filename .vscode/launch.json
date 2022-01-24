@@ -10,7 +10,7 @@
             "name": "visualnoExten",
             "request": "launch",
             "type": "cortex-debug",
-            "showDevDebugOutput": false,
+            "showDevDebugOutput": "none",
             "servertype": "openocd",
             "configFiles": [
                 "interface/stlink.cfg",
