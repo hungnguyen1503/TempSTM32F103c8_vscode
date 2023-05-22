@@ -3,6 +3,5 @@ Using STM32 with VisualCode,STM32cubemx and Makefile
 
 |       |       |
 |-------|-------|
-|       |       |
-|       |-------|
-|       |       |
+|       |-------       |
+
